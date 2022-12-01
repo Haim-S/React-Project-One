@@ -1,0 +1,8 @@
+
+
+h1{
+    padding-left: 10px;
+    margin: 1.3px;
+    font-size: 60px;
+    color:var(--header-text-color);
+}
