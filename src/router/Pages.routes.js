@@ -12,10 +12,10 @@ const PagesRoutes = () => {
   return (
     <BrowserRouter>
     <Routes>
-        <Route path='/' element={<Layout/>}>
-        <Route path='/' element={<HomePage/>}/>
-        <Route path='/coffee' element={<CoffePage/>}/>
-        <Route path='/about' element={<AboutPage/>}/>
+        <Route path='/React-Project-One/' element={<Layout/>}>
+        <Route path='/React-Project-One/' element={<HomePage/>}/>
+        <Route path='/React-Project-One/coffee' element={<CoffePage/>}/>
+        <Route path='/React-Project-One/about' element={<AboutPage/>}/>
         <Route path='*' element={<ErrorPage/>}/>
         </Route>
     </Routes>

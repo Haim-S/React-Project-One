@@ -1,7 +1,7 @@
 
 
 export const navbarLinks = [
-    {paht: "/", label: "Home"},
-    {paht: "/coffee", label: "Coffee"},
-    {paht: "/about", label: "About"},
+    {paht: "/React-Project-One/", label: "Home"},
+    {paht: "/React-Project-One/coffee", label: "Coffee"},
+    {paht: "/React-Project-One/about", label: "About"},
 ]

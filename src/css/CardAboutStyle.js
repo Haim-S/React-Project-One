@@ -13,9 +13,24 @@ border-radius: 20px;
 margin-top: 50px;
 color: (--main-card-titleText-color);
 display: flex;
-
 font-size: 20px;
 font-weight: bolder;
+
+@media (min-width: 601px) {
+    
+    width: 58%;
+    height: 50%;
+
+}
+
+@media (min-width: 1200px) {
+
+    width: 65%;
+    height: 65%;
+
+}
+
+
 `
 
 export const ImageCardAboutStyle = styled.img`

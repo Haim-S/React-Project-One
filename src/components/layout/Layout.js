@@ -18,7 +18,7 @@ const Layout = () => {
     <HeaderStyle  changeSizeHeaderOnPath={location.pathname === "/coffee"}>
     <Header/>
     </HeaderStyle>
-    <MainStyle changeTheBackgroundOnPath={location.pathname === "/"}>
+    <MainStyle changeTheBackgroundOnPath={location.pathname === "/React-Project-One/"}>
     <main>
         <Outlet/>
     </main>

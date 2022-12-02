@@ -3,8 +3,8 @@
 export const MokeData = [
   {
     "title": "Haim sabah",
-    "description": "I am 32 years old, I have been teaching for many years, and have a bachelor's degree in education, and today I am involved in website development.",
-    "image": "https://avatars.githubusercontent.com/u/105053580?v=4",
+    "description": "I will tell you a little about myself, I am 32 years old, married, and I have three daughters. I like to learn and teach, so I was a teacher for several years, and I taught both adults and children, and I am currently engaged in website development, which is a super interesting subject and involves constant learning.",
+    "image": "https://images.pexels.com/photos/256467/pexels-photo-256467.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     "id": 1
   },
     {
@@ -27,7 +27,7 @@ export const MokeData = [
       },
       {
         "title": "coffee",
-        "description": "Coffee is a drink I like to drink, especially in the morning on my balcony..",
+        "description": "I like to start my morning with a cup of coffee, and sitting on the balcony, it gives me a few minutes of refreshment and agenda....",
         "image": "https://images.pexels.com/photos/1684151/pexels-photo-1684151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "id": 5
       },
